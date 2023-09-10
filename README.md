@@ -12,7 +12,7 @@ Regular
 Figurative (both irony and sarcasm) 
 
 Objective:
-1.	Need to get semantic analysis of tweets, gauge its impact and type.
+1.	Need to get semantic analysis of tweets gauge, its impact and type.
    
 Architecture level analysis:
 1.	Data transformation/Text processing using Python.
